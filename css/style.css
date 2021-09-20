@@ -348,4 +348,7 @@ font-size: 16px;
     padding: 10px;
     background-color: rgba(0, 0, 0, 0.1);
 }
+.showcase-form{
+    width: 100%;
+}
 }
